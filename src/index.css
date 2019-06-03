@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.formCreate {
+  padding: 30px;
+  margin-top: 80px;
+  border-radius: 5px;
+}
